@@ -1,0 +1,7 @@
+//loader
+export const ENABLE_LOADER = 'ENABLE_LOADER';
+export const DISABLE_LOADER = 'DISABLE_LOADER';
+
+//owner address
+export const OWNER_ADDRESS_REQUEST = 'OWNER_ADDRESS_REQUEST';
+export const OWNER_ADDRESS_RESPONSE = 'OWNER_ADDRESS_RESPONSE';
